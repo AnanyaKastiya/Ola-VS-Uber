@@ -85,19 +85,11 @@ These findings suggest that Ola should focus on improving dispatch efficiency an
 
 ### Executive Overview
 
-<img width="100%" alt="Executive Overview" src="dashboard_screenshots/executive_overview.png">
-
 ### Pricing Strategy Analysis
-
-<img width="100%" alt="Pricing Strategy" src="dashboard_screenshots/pricing_strategy.png">
 
 ### Operational Efficiency
 
-<img width="100%" alt="Operational Efficiency" src="dashboard_screenshots/operational_efficiency.png">
-
 ### Customer Experience
-
-<img width="100%" alt="Customer Experience" src="dashboard_screenshots/customer_experience.png">
 
 ---
 
