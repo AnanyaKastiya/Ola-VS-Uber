@@ -109,5 +109,3 @@ These findings suggest that Ola should focus on improving dispatch efficiency an
 ## 👤 Author
 
 **Ananya Kastiya**
-
-Aspiring Data Analyst | Business Analyst | Data Science Enthusiast
